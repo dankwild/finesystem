@@ -1,0 +1,12 @@
+.buttons{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+body{
+    background: #a71d2a;
+    color: white;
+}
+.umoja{
+    align-content:en
+}
